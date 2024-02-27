@@ -3,3 +3,6 @@ I demonstrate my expertise in building and evaluating machine learning models. T
 
 This project showcases my ability to work with real-world data, perform exploratory data analysis, build and evaluate machine learning models, and make informed decisions based on the
 results
+
+
+![image](https://github.com/Tilak-Acharya/Credit-score-classification/assets/64969743/5c055ebd-b72f-4198-a791-8f9062362abc)
